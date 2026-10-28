@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.agents
+TEST_READY.md 
+TEST_INFRA.md
